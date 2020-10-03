@@ -9,7 +9,7 @@ The overall process is as follows:
 5. Push the changes to your main branch.
 6. Create a Pull Request (PR) on GitHub (ndapp ← your own GitHub).
 
-When the PR is submitted, it will be reviewed and, if accepted, merged into the main branch, after which it is published to the official website.If you have any questions, you can send an e-mail to [hactrox@gmail.com](mailto:hactrox@gmail.com).
+When the PR is submitted, it will be reviewed and, if accepted, merged into the main branch, after which it is published to the official website.If you have any queries, you can send an e-mail to [hactrox@gmail.com](mailto:hactrox@gmail.com).
 
 ### dApp Requests
 
